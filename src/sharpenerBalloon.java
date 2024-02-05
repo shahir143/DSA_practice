@@ -1,7 +1,7 @@
 import java.util.HashMap;
 
 public class sharpenerBalloon {
-    public static int sharpner_Balloon((int[] arr){
+    public static int sharpner_Balloon(int[] arr){
     int []findArr={1,2,3,4,5,6,7};
     int count=0;
     HashMap<Integer,Integer> map=new HashMap<>();
