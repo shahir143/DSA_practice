@@ -35,7 +35,7 @@ Sample Output:
 sol:-
 
  */
-public class minBill {
+public class extraBill {
     public static int checkBills(int[] arr){
         int max=Integer.MIN_VALUE;
         int res=0;
